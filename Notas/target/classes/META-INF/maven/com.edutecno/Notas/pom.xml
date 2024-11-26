@@ -4,11 +4,6 @@
   <artifactId>Notas</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  	<dependency>
-  		<groupId>com.edutecno</groupId>
-  		<artifactId>ControlNotas</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   	
   	
     <!-- JUnit 5 Dependency -->
